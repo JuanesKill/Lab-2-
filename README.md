@@ -13,6 +13,6 @@ Laboratorio 2 Pagina Web Biografia
 HTML, CSS, BOOTSTRAP, W3SCHOOL
 
 #### LINK DE PAGINA WEB 
-
+https://juaneskill.github.io/Lab-2-/.
 #### LICENCIA
 aPACHE 2.0
